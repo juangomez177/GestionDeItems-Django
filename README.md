@@ -24,7 +24,7 @@
 1. **Clona el repositorio:**
    ```bash
    git clone https://github.com/juangomez177/GestionDeItems-Django.git
-cd GestionDeItems-Django
+   cd GestionDeItems-Django
    
 1. **Crea el entorno virtual:**
    ```bash
@@ -50,7 +50,7 @@ cd GestionDeItems-Django
    ```
 El cual sería lanzado en: `http://127.0.0.1:8000/`
    
-## Empezar desde Cero   
+## Empezar desde Cero  
 En caso de que quiera empezar un nuevo proyecto Django desde cero:
 
 1. **Crea el entorno virtual desde una nueva carpeta:**

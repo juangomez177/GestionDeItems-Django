@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Eliminar Item</title>
+    {% load static %}
+
+</head>
+<body>
+    <h1>Realmente quiere eliminar? "{{ item.nombre }}"?</h1>
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit">Confirmar</button>
+    </form>
+    <a href="{% url 'item_list' %}">Cancelar</a>
+</body>
+</html>

@@ -9,7 +9,7 @@
 - [Configuración del Entorno](#configuración-del-entorno)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Empezar desde Cero](#empezar-de-cero)
+- [Empezar desde Cero](#empezar-desde-cero)
 
 ## Características
 - Crear, leer, actualizar y eliminar ítems, mediante una interfaz de usuario.
